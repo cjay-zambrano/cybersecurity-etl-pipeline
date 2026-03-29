@@ -58,6 +58,7 @@ This project implements an end-to-end ETL (Extract, Transform, Load) pipeline to
 
 📁 Project Structure
 
+<pre> ```
 cybersecurity-etl-pipeline/
 │
 ├── data/
@@ -84,6 +85,7 @@ cybersecurity-etl-pipeline/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+``` </pre>
 
 📈 Business Questions Addressed
 
